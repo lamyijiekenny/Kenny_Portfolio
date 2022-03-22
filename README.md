@@ -30,3 +30,8 @@
 * Used Regressin ML methods to create Regressor Chain Model, LASSO Linear Model, and K-Nearest Neighbour model.
 * Perform error analysis for each model.
 * Used model to predict process parameters, analysed results to come up with optimised set of process parameters.
+
+![axis grid](https://user-images.githubusercontent.com/81230680/159576402-86087667-1deb-48f2-8633-579a8e846203.png)
+![heat map](https://user-images.githubusercontent.com/81230680/159576405-bddfcfe2-492f-4d21-be20-010a99cd85b4.png)
+![error chart](https://user-images.githubusercontent.com/81230680/159576411-e6853ebb-707f-4abc-8241-97bbca7c81fc.png)
+
