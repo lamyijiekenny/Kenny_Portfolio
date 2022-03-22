@@ -13,7 +13,7 @@
 * Used analysis to propose new design and pricing for product.
 
 
-# [3D-printing-ML-Project](https://github.com/lamyijiekenny/3D-printing-ML-Project)
+# [Project 3: 3D-printing-ML-Project](https://github.com/lamyijiekenny/3D-printing-ML-Project)
 * Conducted 3D printing experiments for data collection.
 * Used Regressin ML methods to create Regressor Chain Model, LASSO Linear Model, and K-Nearest Neighbour model.
 * Perform error analysis for each model.
