@@ -18,7 +18,6 @@
 * Analysis methods include Principle component Analysis, Association Rule Mining and Apriori Algorithm and Agglomerative Hierarchical Clustering.
 * Used analysis to propose new design and pricing for product.
 
-![char rating](https://user-images.githubusercontent.com/81230680/159575755-58d9d266-c3fd-4bb9-867b-f0f7f02a4348.png)
 ![PCA graph](https://user-images.githubusercontent.com/81230680/159575763-827b77f0-88c2-4bb1-adc8-b9f6864a78ab.jpg)
 ![AHC](https://user-images.githubusercontent.com/81230680/159575766-6d295575-3568-4f72-ada8-aaff1fdbd94d.png)
 
