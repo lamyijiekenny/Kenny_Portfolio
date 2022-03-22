@@ -30,7 +30,7 @@
 * Used model to predict process parameters, analysed results to come up with optimised set of process parameters.
 
 ![axis grid](https://user-images.githubusercontent.com/81230680/159576570-ee3a190b-48e6-45e4-82f7-aded9142efdd.png)
-![heat map](https://user-images.githubusercontent.com/81230680/159577518-2b9a8f0e-ef0a-4698-a5d8-5100b96d97ca.png)
+![heat map](https://user-images.githubusercontent.com/81230680/159577629-678994fe-b13a-4dfc-bad8-8391bcd92857.png)
 
 
 
