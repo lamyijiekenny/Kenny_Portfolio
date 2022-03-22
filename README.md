@@ -11,3 +11,10 @@
 * Used RStudio to conduct data analysis on survey results using data mining techniques and tools.
 * Analysis methods include Principle component Analysis, Association Rule Mining and Apriori Algorithm and Agglomerative Hierarchical Clustering.
 * Used analysis to propose new design and pricing for product.
+
+
+# [3D-printing-ML-Project](https://github.com/lamyijiekenny/3D-printing-ML-Project)
+* Conducted 3D printing experiments for data collection.
+* Used Regressin ML methods to create Regressor Chain Model, LASSO Linear Model, and K-Nearest Neighbour model.
+* Perform error analysis for each model.
+* Used model to predict process parameters, analysed results to come up with optimised set of process parameters.
