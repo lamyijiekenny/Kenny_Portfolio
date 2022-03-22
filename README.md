@@ -6,7 +6,8 @@
 * Feature plots, Naive Bayes models, and Logistic Regression models 
 * Created Model to predict future values
 
-[](https://user-images.githubusercontent.com/81230680/159573486-78a118b4-3834-4352-a678-017b5591a9a8.png)
+![](https://user-images.githubusercontent.com/81230680/159573486-78a118b4-3834-4352-a678-017b5591a9a8.png)
+
 
 
 # [Project 2: Product-Data-Analysis-Project](https://github.com/lamyijiekenny/Product-Data-Analysis-Project)
