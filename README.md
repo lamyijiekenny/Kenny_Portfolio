@@ -8,7 +8,6 @@
 
 ![flight pattern](https://user-images.githubusercontent.com/81230680/159574875-9f86d53e-3ffc-48b1-80b3-1598a728b6c7.png)
 ![hist1](https://user-images.githubusercontent.com/81230680/159574888-91c37b48-67ac-4ad2-aea6-6b196840efdd.jpg)
-![hist 2](https://user-images.githubusercontent.com/81230680/159574899-89217822-8e80-49d4-8862-bbffe1ed54ab.jpg)
 ![confusion matrix](https://user-images.githubusercontent.com/81230680/159574905-1fd9c4c1-8be7-4d55-9638-4a8089e1e12d.png)
 
 
