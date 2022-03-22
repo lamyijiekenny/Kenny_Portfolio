@@ -7,7 +7,8 @@
 * Created Model to predict future values
 
 ![flight pattern](https://user-images.githubusercontent.com/81230680/159574185-bc32ff0d-8aa5-4bab-90bd-59b94fdc8c40.png)
-
+![histogram](https://user-images.githubusercontent.com/81230680/159574268-91fc880a-0554-46b6-9af0-00fdc7647b76.png)
+![confusion matrix](https://user-images.githubusercontent.com/81230680/159574273-8adda7a8-17c5-4187-a180-3ca9b145f362.png)
 
 
 
