@@ -19,6 +19,8 @@
 * Analysis methods include Principle component Analysis, Association Rule Mining and Apriori Algorithm and Agglomerative Hierarchical Clustering.
 * Used analysis to propose new design and pricing for product.
 
+![char rating](https://user-images.githubusercontent.com/81230680/159575285-2370c84a-d149-49cd-b113-ae842e9dd70f.png)
+
 
 # [Project 3: 3D-printing-ML-Project](https://github.com/lamyijiekenny/3D-printing-ML-Project)
 * Conducted 3D printing experiments for data collection.
